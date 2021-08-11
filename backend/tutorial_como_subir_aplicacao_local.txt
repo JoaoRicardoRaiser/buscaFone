@@ -1,0 +1,8 @@
+Para rodar local basta rodar os comandos
+
+*** caso não tenha o pipenv: ***
+-pip install pipenv
+
+-pipenv install requirements.txt
+
+-pipenv run main.py
